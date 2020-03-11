@@ -1,0 +1,3 @@
+rootProject.name='QuickStartTest'
+include ':app'
+include ':demo-module'
