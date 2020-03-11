@@ -2,7 +2,6 @@ apply from: rootProject.file('gradle/module.gradle')
 
 android {
     defaultConfig {
-        versionCode 1
         versionName "1.0"
     }
 }
